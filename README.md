@@ -163,8 +163,7 @@ amazon-india-sales-dashboard/
 B.Sc. Data Science | Aspiring Data Analyst  
 📍 Mumbai, India
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)]
-(www.linkedin.com/in/rahul-chauhan-8b82012b1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/rahul-chauhan-8b82012b1)
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-black?logo=github)](https://github.com/rcrahul0001-web)
 
 ---
